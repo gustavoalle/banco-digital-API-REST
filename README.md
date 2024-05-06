@@ -7,7 +7,7 @@
 ### Clone este repositório:
 git clone https://github.com/gustavoalle/banco-digital-API-REST
 
-### Instale as dependências com NPM
+### Instale as dependências com NPM:
 
 Express,
 Nodemon
